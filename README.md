@@ -5,4 +5,3 @@
 
 Благодарю за ваш интерес к моему проекту и надеюсь, что он будет полезен как вам, так и другим студентам, изучающим язык программирования C. Спасибо за внимание!
 
-https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fdota-blog.ru%2Fwp-content%2Fuploads%2F2020%2F01%2F132712.jpg&lr=2&p=1&pos=51&rpt=simage&text=%D1%80%D0%BE%D1%84%D0%BB%20%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8%20%D0%BD%D0%B0%20%D0%B0%D0%B2%D1%83
